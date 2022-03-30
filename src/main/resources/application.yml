@@ -1,0 +1,6 @@
+api:
+  music-brainz: "https://musicbrainz.org/ws/2/artist/"
+  wikidata: "https://www.wikidata.org/wiki/Special:EntityData/"
+  wikipedia: "https://en.wikipedia.org/api/rest_v1/page/summary/"
+  cover-art: "https://coverartarchive.org/release-group/"
+
